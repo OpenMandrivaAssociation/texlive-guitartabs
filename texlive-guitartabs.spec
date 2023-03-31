@@ -1,6 +1,6 @@
 Name:		texlive-guitartabs
 Version:	48102
-Release:	1
+Release:	2
 Summary:	A class for drawing guitar tablatures easily
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/guitartabs
