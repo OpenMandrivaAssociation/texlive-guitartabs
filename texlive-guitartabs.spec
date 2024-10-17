@@ -3,7 +3,7 @@ Version:	48102
 Release:	2
 Summary:	A class for drawing guitar tablatures easily
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/guitartabs
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/guitartabs
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/guitartabs.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/guitartabs.doc.r%{version}.tar.xz
